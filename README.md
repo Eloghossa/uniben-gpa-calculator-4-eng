@@ -18,7 +18,12 @@ The project is open source, so anyone can edit it and automate the courses in th
 
 # Preview
 
-![Screenshot_20230604-233244~2](https://github.com/Eloghossa/uniben-gpa-calculator-4-eng/assets/76151917/f533d03e-16c5-43e6-8b8f-874f259e0da9)
+Dark mode
+![Screenshot_20230604-233244~3](https://github.com/Eloghossa/uniben-gpa-calculator-4-eng/assets/76151917/697c764b-a211-4dac-9033-25461dc554f2)
+
+Light mode and a sample of the result
 ![Screenshot_20230604-233326~2](https://github.com/Eloghossa/uniben-gpa-calculator-4-eng/assets/76151917/01852685-651f-4dfe-a629-05aba1350b73)
+
+Others whose departments are not listed 
 ![Screenshot_20230604-233349~2](https://github.com/Eloghossa/uniben-gpa-calculator-4-eng/assets/76151917/37bc9cdf-4e9e-4aaa-8ef1-d64255ceb75f)
 
