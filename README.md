@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ba95135d-d29d-47c7-86a9-7f8d3494f687/deploy-status)](https://app.netlify.com/sites/gpa-calculator-4-eng/deploys)
+
 # Overview
 
 This project is created specially for UNIBEN engineering students, to help them to calculate their GO and CGPA with ease without having to write their course code and credits units. The course code and credits units for each engineering department and level are there already, all you have to do is select your grade and your GP pops up.
