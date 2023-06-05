@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4d24cf2b-4f04-4407-a068-ef95c1c6fec6/deploy-status)](https://app.netlify.com/sites/gpa-calculator-4-eng/deploys) 
 
 # Overview
 
